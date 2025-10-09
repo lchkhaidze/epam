@@ -7,5 +7,6 @@ public class InputStreamProgram {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.next();
         System.out.println("Hello " + input);
+
     }
 }
